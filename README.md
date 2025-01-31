@@ -19,4 +19,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sanmoy1&icon=1&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitorbadge.io/PLACEHOLDER)](https://visitorbadge.io/)
