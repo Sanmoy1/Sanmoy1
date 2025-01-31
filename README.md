@@ -19,4 +19,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![Visitor Count](https://visitorbadge.io/PLACEHOLDER)](https://visitorbadge.io/)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSanmoy1%2FSanmoy1&label=Visitors&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSanmoy1%2FSanmoy1)
